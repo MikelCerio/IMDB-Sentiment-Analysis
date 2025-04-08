@@ -27,16 +27,5 @@ new_review = "This movie was fantastic. I love it."
 predict_sentiment(new_review)
 # Output: "Positive"
 
-📁 Tech Stack
-Python
 
-TensorFlow / Keras
 
-NLP preprocessing
-```python
-new_review = "This movie was fantastic. I love it."
-predict_sentiment(new_review)
-# Output: "Positive"
-
-📢 Author
-Mikel Cerio Chinchurreta — LinkedIn
